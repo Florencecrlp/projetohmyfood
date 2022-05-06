@@ -99,7 +99,7 @@ body
 	display:flex;
 	justify-content:space-between;
 	cursor:pointer;
-	
+	overflow:hidden;
 }
 @keyframes progressionmenu {
     0% {
